@@ -1,0 +1,20 @@
+Algoritmo EjercicioSumarCalorias
+	
+	definir calorias, semana, total_de_calorias Como Entero
+	DEFINIR LUNES, MARTES, MIERCOLES, JUEVES, VIERNES, SABADO, DOMINGO Como ENTERO
+	
+	Escribir "CALORIAS CONSUMIDAS EN LA SEMANA"
+	LEER LUNES
+	LEER MARTES
+	Leer MIERCOLES
+	Leer JUEVES
+	Leer VIERNES
+	LEER SABADO
+	LEER DOMINGO
+	
+	total_de_calorias<- (LUNES+MARTES+MIERCOLES+JUEVES+VIERNES+SABADO+DOMINGO)
+	
+	ESCRIBIR "EL TOTAL DE LAS CALORIAS CONSUMIDAS EN LA SEMANA ES DE:" total_de_calorias
+	
+	
+FinAlgoritmo
