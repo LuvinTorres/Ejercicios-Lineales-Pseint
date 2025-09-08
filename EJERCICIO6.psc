@@ -1,4 +1,4 @@
-Algoritmo sumar_5_numeros
+Algoritmo EJERCICIO_6
 	
 	definir suma_de_numeros, n1, n2, n3, n4, n5 Como Entero
 	
@@ -16,3 +16,4 @@ Algoritmo sumar_5_numeros
 	
 	
 FinAlgoritmo
+
